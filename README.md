@@ -13,7 +13,8 @@
 Clone the repository to your local machine:
 
 
-```bash git clone https://github.com/reviewraj/Pushing-Docker-Images-from-Local-Machine-to-AWS
+```bash
+git clone https://github.com/reviewraj/Pushing-Docker-Images-from-Local-Machine-to-AWS
 ```
 
 # 2.  Run the Script
